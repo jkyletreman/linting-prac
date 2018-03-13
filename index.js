@@ -1,5 +1,5 @@
 function twoSum() {
-  console.log('Two sum');
+  console.log('Simple Sum');
 }
 
 module.exports = twoSum;
